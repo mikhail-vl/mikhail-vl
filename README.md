@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Mikhail 👋
 
 <!--
 **mikhailredis/mikhailredis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as a **Customer Success Manager** at [Redis Labs](https://redislabs.com).
+- 🌱 I love to prototype my ideas in Typescript.
+- 📫 Reach me on [Twitter](https://twitter.com/mikhailvolkov) or [LinkedIn](https://www.linkedin.com/in/mikhailvolkov/).
+
+## Redis Labs [blogs](https://redislabs.com/blog/author/mikhail/)
+
+- [Redis Enterprise Extends Linear Scalability with 200M ops/sec @ <1ms latency on Only 40 AWS Instances](https://redislabs.com/blog/redis-enterprise-extends-linear-scalability-200m-ops-sec/).
+- [Introducing the Redis Data Source Plug-in for Grafana](https://redislabs.com/blog/introducing-the-redis-data-source-plug-in-for-grafana/).
+- [How to Use the New Redis Data Source for Grafana Plug-in](https://redislabs.com/blog/how-to-use-the-new-redis-data-source-for-grafana-plug-in/).
+- [3 Real-Life Apps Built with Redis Data Source for Grafana](https://redislabs.com/blog/3-real-life-apps-built-with-redis-data-source-for-grafana/).
+
+## LinkedIn articles
+- [Grafana data streaming meets Redis](https://www.linkedin.com/pulse/grafana-data-streaming-meets-redis-mikhail-volkov/).
+- [How I tested the Redis cluster in Redis Data Source for Grafana](https://www.linkedin.com/pulse/how-i-tested-redis-cluster-data-source-grafana-mikhail-volkov/).
+- [Pop-up store demo using RedisTimeSeries, RedisGears and Redis Datasource for Grafana](https://www.linkedin.com/pulse/pop-up-store-demo-using-redistimeseries-redisgears-redis-volkov/).
+- [How many times Redis Datasource for Grafana was downloaded?](https://www.linkedin.com/pulse/how-many-times-redis-datasource-grafana-downloaded-mikhail-volkov/).
+
+## Plugins for Grafana
+
+- [Redis Data Source](https://github.com/RedisGrafana/grafana-redis-datasource)
+- [Redis Application](https://github.com/RedisGrafana/grafana-redis-app)
