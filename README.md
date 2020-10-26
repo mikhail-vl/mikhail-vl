@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 - [3 Real-Life Apps Built with Redis Data Source for Grafana](https://redislabs.com/blog/3-real-life-apps-built-with-redis-data-source-for-grafana/).
 
 ## LinkedIn articles
-- [Grafana data streaming meets Redis](https://www.linkedin.com/pulse/grafana-data-streaming-meets-redis-mikhail-volkov/).
-- [How I tested the Redis cluster in Redis Data Source for Grafana](https://www.linkedin.com/pulse/how-i-tested-redis-cluster-data-source-grafana-mikhail-volkov/).
-- [Pop-up store demo using RedisTimeSeries, RedisGears and Redis Datasource for Grafana](https://www.linkedin.com/pulse/pop-up-store-demo-using-redistimeseries-redisgears-redis-volkov/).
 - [How many times Redis Datasource for Grafana was downloaded?](https://www.linkedin.com/pulse/how-many-times-redis-datasource-grafana-downloaded-mikhail-volkov/).
+- [Pop-up store demo using RedisTimeSeries, RedisGears and Redis Datasource for Grafana](https://www.linkedin.com/pulse/pop-up-store-demo-using-redistimeseries-redisgears-redis-volkov/).
+- [How I tested the Redis cluster in Redis Data Source for Grafana](https://www.linkedin.com/pulse/how-i-tested-redis-cluster-data-source-grafana-mikhail-volkov/).
+- [Grafana data streaming meets Redis](https://www.linkedin.com/pulse/grafana-data-streaming-meets-redis-mikhail-volkov/).
+- [Observing Redis databases from Grafana Cloud for free](https://www.linkedin.com/pulse/observing-redis-databases-from-grafana-cloud-free-mikhail-volkov)
 
 ## Plugins for Grafana
 
