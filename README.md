@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I love to prototype my ideas in Typescript.
 - 📫 Reach me on [Twitter](https://twitter.com/mikhailvolkov) or [LinkedIn](https://www.linkedin.com/in/mikhailvolkov/).
 
-## Redis Labs [blogs](https://redislabs.com/blog/author/mikhail/)
+## Redis Labs blog [posts](https://redislabs.com/blog/author/mikhail/)
 
 - [Redis Enterprise Extends Linear Scalability with 200M ops/sec @ <1ms latency on Only 40 AWS Instances](https://redislabs.com/blog/redis-enterprise-extends-linear-scalability-200m-ops-sec/).
 - [Introducing the Redis Data Source Plug-in for Grafana](https://redislabs.com/blog/introducing-the-redis-data-source-plug-in-for-grafana/).
