@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - [Grafana data streaming meets Redis](https://www.linkedin.com/pulse/grafana-data-streaming-meets-redis-mikhail-volkov/).
 - [Observing Redis databases from Grafana Cloud for free](https://www.linkedin.com/pulse/observing-redis-databases-from-grafana-cloud-free-mikhail-volkov).
 
-## Plugins for Grafana
+## [Plugins for Grafana](https://grafana.com/orgs/redis)
 
 - [Redis Data Source](https://github.com/RedisGrafana/grafana-redis-datasource)
 - [Redis Application plug-in](https://github.com/RedisGrafana/grafana-redis-app)
