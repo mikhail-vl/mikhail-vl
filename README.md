@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Conference
 - [Real-time observability with Redis and Grafana](https://grafana.com/go/observabilitycon/real-time-observability-with-redis-and-grafana/).
 
-## Redis Labs blog [posts](https://redislabs.com/blog/author/mikhail/)
+## [Redis Labs blog](https://redislabs.com/blog/author/mikhail/)
 
 - [Redis Enterprise Extends Linear Scalability with 200M ops/sec @ <1ms latency on Only 40 AWS Instances](https://redislabs.com/blog/redis-enterprise-extends-linear-scalability-200m-ops-sec/).
 - [Introducing the Redis Data Source Plug-in for Grafana](https://redislabs.com/blog/introducing-the-redis-data-source-plug-in-for-grafana/).
