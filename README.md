@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - [Introducing the Redis Data Source Plug-in for Grafana](https://redislabs.com/blog/introducing-the-redis-data-source-plug-in-for-grafana/).
 - [How to Use the New Redis Data Source for Grafana Plug-in](https://redislabs.com/blog/how-to-use-the-new-redis-data-source-for-grafana-plug-in/).
 - [3 Real-Life Apps Built with Redis Data Source for Grafana](https://redislabs.com/blog/3-real-life-apps-built-with-redis-data-source-for-grafana/).
-- [Real-Time Observability with Redis and Grafana](https://redislabs.com/blog/real-time-observability-with-redis-and-grafana/)
+- [Real-Time Observability with Redis and Grafana](https://redislabs.com/blog/real-time-observability-with-redis-and-grafana/).
 
 ## LinkedIn articles
 - [How many times Redis Datasource for Grafana was downloaded?](https://www.linkedin.com/pulse/how-many-times-redis-datasource-grafana-downloaded-mikhail-volkov/)
