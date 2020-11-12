@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - [How I tested the Redis cluster in Redis Data Source for Grafana](https://www.linkedin.com/pulse/how-i-tested-redis-cluster-data-source-grafana-mikhail-volkov/).
 - [Grafana data streaming meets Redis](https://www.linkedin.com/pulse/grafana-data-streaming-meets-redis-mikhail-volkov/).
 - [Observing Redis databases from Grafana Cloud for free](https://www.linkedin.com/pulse/observing-redis-databases-from-grafana-cloud-free-mikhail-volkov).
-- [I taught my wife how to use RediSearch](https://www.linkedin.com/pulse/i-taught-my-wife-how-use-redisearch-mikhail-volkov)
+- [I taught my wife how to use RediSearch](https://www.linkedin.com/pulse/i-taught-my-wife-how-use-redisearch-mikhail-volkov).
 
 ## [Plugins for Grafana](https://grafana.com/orgs/redis)
 
