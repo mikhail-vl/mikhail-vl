@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a **Customer Success Manager** at [Redis Labs](https://redislabs.com).
 - 🌱 I love to prototype my ideas in Typescript.
 - 💬 Blogging on [Redis Labs blog](https://redislabs.com/blog/author/mikhail/)
+- 😄 Leading [Redis plugins for Grafana](https://grafana.com/orgs/redis)
 - 📫 Reach me on [Twitter](https://twitter.com/mikhailvolkov) or [LinkedIn](https://www.linkedin.com/in/mikhailvolkov/).
 
 ## Conference
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 - [Observing Redis databases from Grafana Cloud for free](https://www.linkedin.com/pulse/observing-redis-databases-from-grafana-cloud-free-mikhail-volkov).
 - [I taught my wife how to use RediSearch](https://www.linkedin.com/pulse/i-taught-my-wife-how-use-redisearch-mikhail-volkov).
 
-## [Plugins for Grafana](https://grafana.com/orgs/redis)
+## Plugins for Grafana
 
 - [Redis Data Source](https://github.com/RedisGrafana/grafana-redis-datasource) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-datasource.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fredis-datasource)](https://grafana.com/grafana/plugins/redis-datasource) ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-datasource.svg?style=social&amp;label=Star&amp;maxAge=2592000)
 - [Redis Application plug-in](https://github.com/RedisGrafana/grafana-redis-app) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-app.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fredis-app)](https://grafana.com/grafana/plugins/redis-app) ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-app.svg?style=social&amp;label=Star&amp;maxAge=2592000)
