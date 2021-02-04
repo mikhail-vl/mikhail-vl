@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a **Customer Success Manager** at [Redis Labs](https://redislabs.com).
 - 🌱 I love to prototype my ideas in Typescript.
-- 💬 Blogging on [Redis Labs blog](https://redislabs.com/blog/author/mikhail/)
-- 😄 Leading [Redis plugins for Grafana](https://grafana.com/orgs/redis)
+- 💬 Blogging on [Redis Labs blog](https://redislabs.com/blog/author/mikhail/).
+- 😄 Leading [Redis plugins for Grafana](https://grafana.com/orgs/redis).
 - 📫 Reach me on [Twitter](https://twitter.com/mikhailvolkov) or [LinkedIn](https://www.linkedin.com/in/mikhailvolkov/).
 
 ## Conference
-- [Real-time observability with Redis and Grafana](https://grafana.com/go/observabilitycon/real-time-observability-with-redis-and-grafana/).
+- `October 26, 2020` [Real-time observability with Redis and Grafana](https://grafana.com/go/observabilitycon/real-time-observability-with-redis-and-grafana/).
 
 ## Redis Labs blog
 
@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 - `October 28, 2020` [Real-Time Observability with Redis and Grafana](https://redislabs.com/blog/real-time-observability-with-redis-and-grafana/).
 
 ## LinkedIn articles
-- [How many times Redis Datasource for Grafana was downloaded?](https://www.linkedin.com/pulse/how-many-times-redis-datasource-grafana-downloaded-mikhail-volkov/)
-- [Pop-up store demo using RedisTimeSeries, RedisGears and Redis Datasource for Grafana](https://www.linkedin.com/pulse/pop-up-store-demo-using-redistimeseries-redisgears-redis-volkov/).
-- [How I tested the Redis cluster in Redis Data Source for Grafana](https://www.linkedin.com/pulse/how-i-tested-redis-cluster-data-source-grafana-mikhail-volkov/).
-- [Grafana data streaming meets Redis](https://www.linkedin.com/pulse/grafana-data-streaming-meets-redis-mikhail-volkov/).
-- [Observing Redis databases from Grafana Cloud for free](https://www.linkedin.com/pulse/observing-redis-databases-from-grafana-cloud-free-mikhail-volkov).
-- [I taught my wife how to use RediSearch](https://www.linkedin.com/pulse/i-taught-my-wife-how-use-redisearch-mikhail-volkov).
+- `August 8, 2020` [How many times Redis Datasource for Grafana was downloaded?](https://www.linkedin.com/pulse/how-many-times-redis-datasource-grafana-downloaded-mikhail-volkov/)
+- `August 17, 2020` [Pop-up store demo using RedisTimeSeries, RedisGears and Redis Datasource for Grafana](https://www.linkedin.com/pulse/pop-up-store-demo-using-redistimeseries-redisgears-redis-volkov/).
+- `September 14, 2020` [How I tested the Redis cluster in Redis Data Source for Grafana](https://www.linkedin.com/pulse/how-i-tested-redis-cluster-data-source-grafana-mikhail-volkov/).
+- `October 15, 2020` [Grafana data streaming meets Redis](https://www.linkedin.com/pulse/grafana-data-streaming-meets-redis-mikhail-volkov/).
+- `October 25, 2020` [Observing Redis databases from Grafana Cloud for free](https://www.linkedin.com/pulse/observing-redis-databases-from-grafana-cloud-free-mikhail-volkov).
+- `November 11, 2020` [I taught my wife how to use RediSearch](https://www.linkedin.com/pulse/i-taught-my-wife-how-use-redisearch-mikhail-volkov).
 
 ## Plugins for Grafana
 
