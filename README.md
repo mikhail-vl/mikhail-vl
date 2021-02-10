@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - `October 15, 2020` [Grafana data streaming meets Redis](https://www.linkedin.com/pulse/grafana-data-streaming-meets-redis-mikhail-volkov/).
 - `October 25, 2020` [Observing Redis databases from Grafana Cloud for free](https://www.linkedin.com/pulse/observing-redis-databases-from-grafana-cloud-free-mikhail-volkov).
 - `November 11, 2020` [I taught my wife how to use RediSearch](https://www.linkedin.com/pulse/i-taught-my-wife-how-use-redisearch-mikhail-volkov).
+- `February 9, 2021` [What is Redis CLI?](https://www.linkedin.com/posts/mikhailvolkov_redis-grafana-customersuccess-activity-6765136306789081088-YA-5)
 
 ## Plugins for Grafana
 
