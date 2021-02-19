@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a **Customer Success Manager** at [Redis Labs](https://redislabs.com).
+- 🔭 I’m currently working as a **Manager, Customer Success** at [Redis Labs](https://redislabs.com).
 - 🌱 I love to prototype my ideas in Typescript.
 - 💬 Blogging on [Redis Labs blog](https://redislabs.com/blog/author/mikhail/).
+- ⚡ Interested in Observability and Monitoring solutions.
 - 😄 Leading [Redis plugins for Grafana](https://grafana.com/orgs/redis).
 - 📫 Reach me on [Twitter](https://twitter.com/mikhailvolkov) or [LinkedIn](https://www.linkedin.com/in/mikhailvolkov/).
 
