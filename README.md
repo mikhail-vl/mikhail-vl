@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I love to prototype my ideas in Typescript.
+- 🔭 Building Real-time Observability and Management solutions at [Volkov Labs](https://volkovlabs.com).
 - 💬 Blogging on [Redis Labs blog](https://redislabs.com/blog/author/mikhail/).
-- 🔭 Interested in Observability and Monitoring solutions.
 - 😄 Leading [Redis plugins for Grafana](https://grafana.com/orgs/redis).
 - 📫 Reach me on [Twitter](https://twitter.com/mikhailvolkov) or [LinkedIn](https://www.linkedin.com/in/mikhailvolkov/).
 
 ## Conference
 - `October 26, 2020` [Real-time observability with Redis and Grafana](https://grafana.com/go/observabilitycon/real-time-observability-with-redis-and-grafana/).
-
-## Redis Labs blog
+- `April 20-21, 2021` Elevate your Redis experience with Redis plugins for Grafana
+ 
+## [Redis Labs blog](https://redislabs.com/blog/author/mikhail/)
 
 - `June 27, 2019` [Redis Enterprise Extends Linear Scalability with 200M ops/sec @ <1ms latency on Only 40 AWS Instances](https://redislabs.com/blog/redis-enterprise-extends-linear-scalability-200m-ops-sec/).
 - `August 25, 2020` [Introducing the Redis Data Source Plug-in for Grafana](https://redislabs.com/blog/introducing-the-redis-data-source-plug-in-for-grafana/).
@@ -49,6 +49,10 @@ Here are some ideas to get you started:
 
 - [Redis Application plug-in](https://github.com/RedisGrafana/grafana-redis-app) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-app.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fredis-app)](https://grafana.com/grafana/plugins/redis-app)
 ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-app.svg?style=social&amp;label=Star&amp;maxAge=2592000)
+[![Docker](https://github.com/RedisGrafana/grafana-redis-app/workflows/Docker/badge.svg)](https://github.com/orgs/RedisGrafana/packages/container/package/redis-app)
+[![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-app/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-app)
+
+- [Redis Explorer plug-in](https://github.com/RedisGrafana/grafana-redis-explorer) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-explorer.svg) ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-explorer.svg?style=social&amp;label=Star&amp;maxAge=2592000)
 [![Docker](https://github.com/RedisGrafana/grafana-redis-app/workflows/Docker/badge.svg)](https://github.com/orgs/RedisGrafana/packages/container/package/redis-app)
 [![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-app/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-app)
 
