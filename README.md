@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 [![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-app/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-app)
 
 - [Redis Explorer plug-in](https://github.com/RedisGrafana/grafana-redis-explorer) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-explorer.svg) ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-explorer.svg?style=social&amp;label=Star&amp;maxAge=2592000)
-[![Docker](https://github.com/RedisGrafana/grafana-redis-app/workflows/Docker/badge.svg)](https://github.com/orgs/RedisGrafana/packages/container/package/redis-app)
-[![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-app/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-app)
+[![Docker](https://github.com/RedisGrafana/grafana-redis-explorer/workflows/Docker/badge.svg)](https://github.com/orgs/RedisGrafana/packages/container/package/redis-explorer)
+[![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-explorer/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-explorer)
 
