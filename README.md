@@ -44,15 +44,15 @@ Here are some ideas to get you started:
 ## Plugins for Grafana
 
 - [Redis Data Source](https://github.com/RedisGrafana/grafana-redis-datasource) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-datasource.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fredis-datasource)](https://grafana.com/grafana/plugins/redis-datasource)
-![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-datasource.svg?style=social&amp;label=Star&amp;maxAge=2592000)
+![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-datasource/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-datasource)
 
 - [Redis Application plug-in](https://github.com/RedisGrafana/grafana-redis-app) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-app.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fredis-app)](https://grafana.com/grafana/plugins/redis-app)
-![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-app.svg?style=social&amp;label=Star&amp;maxAge=2592000)
+![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-app.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![Docker](https://github.com/RedisGrafana/grafana-redis-app/workflows/Docker/badge.svg)](https://github.com/orgs/RedisGrafana/packages/container/package/redis-app)
 [![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-app/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-app)
 
-- [Redis Explorer plug-in](https://github.com/RedisGrafana/grafana-redis-explorer) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-explorer.svg) ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-explorer.svg?style=social&amp;label=Star&amp;maxAge=2592000)
+- [Redis Explorer plug-in](https://github.com/RedisGrafana/grafana-redis-explorer) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-explorer.svg) ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-explorer.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![Docker](https://github.com/RedisGrafana/grafana-redis-explorer/workflows/Docker/badge.svg)](https://github.com/orgs/RedisGrafana/packages/container/package/redis-explorer)
 [![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-explorer/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-explorer)
 
