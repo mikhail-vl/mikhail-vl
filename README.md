@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Building Real-time Observability and Management solutions at [Volkov Labs](https://volkovlabs.com).
+- 🔭 Building Real-time Observability and Management solutions at @VolkovLabs.
 - 💬 Blogging on [Volkov Labs blog](https://volkovlabs.com/).
 - 😄 Leading [Redis plugins for Grafana](https://grafana.com/orgs/redis).
 - 📫 Reach me on [Twitter](https://twitter.com/mikhailvolkov) or [LinkedIn](https://www.linkedin.com/in/mikhailvolkov/).
