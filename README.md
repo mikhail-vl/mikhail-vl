@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Conference
 - `October 26, 2020` [Real-time observability with Redis and Grafana](https://grafana.com/go/observabilitycon/real-time-observability-with-redis-and-grafana/).
-- `April 20-21, 2021` Elevate your Redis experience with Redis plugins for Grafana
+- `April 20-21, 2021` [Elevate your Redis experience with Redis plugins for Grafana](https://redisconf.com/redisconf21/modules/85406/agenda/session/265347).
  
 ## [Redis Labs blog](https://redislabs.com/blog/author/mikhail/)
 
