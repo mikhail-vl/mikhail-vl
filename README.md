@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 ## Conference
 - `October 26, 2020` [Real-time observability with Redis and Grafana](https://grafana.com/go/observabilitycon/real-time-observability-with-redis-and-grafana/).
 - `April 20-21, 2021` [Elevate your Redis experience with Redis plugins for Grafana](https://redisconf.com/redisconf21/modules/85406/agenda/session/265347).
+
+## [Volkov Labs blog](https://volkovlabs.com)
+- `April 13, 2021` [Forecasting Stocks and Crypto prices using Redis, Prophet, and Grafana](https://volkovlabs.com/forecasting-stocks-and-crypto-prices-using-redis-prophet-and-grafana-b1630638d469)
  
 ## [Redis Labs blog](https://redislabs.com/blog/author/mikhail/)
 
