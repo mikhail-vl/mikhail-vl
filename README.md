@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Blogging on [Volkov Labs blog](https://volkovlabs.com/).
 - 😄 Leading [Redis plugins for Grafana](https://redisgrafana.github.io).
 - 📫 Reach me on [Twitter](https://twitter.com/mikhailvolkov) or [LinkedIn](https://www.linkedin.com/in/mikhailvolkov/).
-- ⚡ My Excalidraw collection of [Redis and Grafana icons](https://github.com/mikhailredis/excalidraw-redis-grafana)
+- ⚡ My Excalidraw collection of [Redis and Grafana icons](https://github.com/mikhailredis/excalidraw-redis-grafana).
 
 ## Conference
 - `October 26, 2020` [Real-time observability with Redis and Grafana](https://grafana.com/go/observabilitycon/real-time-observability-with-redis-and-grafana/).
