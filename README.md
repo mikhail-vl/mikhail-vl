@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 
 ## [Volkov Labs blog](https://volkovlabs.com)
 - `April 13, 2021` [Forecasting Stocks and Crypto prices using Redis, Prophet, and Grafana](https://volkovlabs.com/forecasting-stocks-and-crypto-prices-using-redis-prophet-and-grafana-b1630638d469).
- 
+
+## [Grafana Labs blog](https://grafana.com/blog)
+- `May 24, 2021` [New plugins connect almost all of Redis for monitoring and visualization in Grafana](https://grafana.com/blog/2021/05/24/new-plugins-connect-almost-all-of-redis-for-monitoring-and-visualization-in-grafana/).
+
 ## [Redis Labs blog](https://redislabs.com/blog/author/mikhail/)
 
 - `June 27, 2019` [Redis Enterprise Extends Linear Scalability with 200M ops/sec @ <1ms latency on Only 40 AWS Instances](https://redislabs.com/blog/redis-enterprise-extends-linear-scalability-200m-ops-sec/).
