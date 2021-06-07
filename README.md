@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 [![Docker](https://github.com/RedisGrafana/grafana-redis-explorer/workflows/Docker/badge.svg)](https://github.com/orgs/RedisGrafana/packages/container/package/redis-explorer)
 [![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-explorer/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-explorer)
 
-- [Volkov Labs Image Panel](https://github.com/volkovlabs/grafana-image-panel) ![Release](https://img.shields.io/github/v/release/volkovlabs/grafana-image-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/grafana-image-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
+- [Base64 Image Panel](https://github.com/volkovlabs/grafana-image-panel) ![Release](https://img.shields.io/github/v/release/volkovlabs/grafana-image-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/grafana-image-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/volkovlabs/grafana-image-panel/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/grafana-image-panel)
 
 
