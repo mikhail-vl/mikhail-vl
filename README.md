@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ My Excalidraw collection of [Redis and Grafana icons](https://github.com/volkovlabs/excalidraw-redis-grafana).
 - 📫 Reach me on [Twitter](https://twitter.com/mikhailvolkov) or [LinkedIn](https://www.linkedin.com/in/mikhailvolkov/).
 
-## Publications
+## Events & Blogs
 - `June 27, 2019` [Redis Enterprise Extends Linear Scalability with 200M ops/sec @ <1ms latency on Only 40 AWS Instances](https://redislabs.com/blog/redis-enterprise-extends-linear-scalability-200m-ops-sec/) on Redis Labs blog.
 - `August 8, 2020` [How many times Redis Datasource for Grafana was downloaded?](https://www.linkedin.com/pulse/how-many-times-redis-datasource-grafana-downloaded-mikhail-volkov/) on LinkedIn.
 - `August 17, 2020` [Pop-up store demo using RedisTimeSeries, RedisGears and Redis Datasource for Grafana](https://www.linkedin.com/pulse/pop-up-store-demo-using-redistimeseries-redisgears-redis-volkov/) on LinkedIn.
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - `April 20-21, 2021` [Elevate your Redis experience with Redis plugins for Grafana](https://www.youtube.com/watch?v=LquDQyEncLE) at RedisConf.
 - `May 24, 2021` [New plugins connect almost all of Redis for monitoring and visualization in Grafana](https://grafana.com/blog/2021/05/24/new-plugins-connect-almost-all-of-redis-for-monitoring-and-visualization-in-grafana/) on Grafana Labs blog.
 - `June 4, 2021` [Analyzing camera feed in real-time using RedisAI, OpenCV-Python, and Redis plugins for Grafana](https://volkovlabs.com/analyzing-camera-feed-in-real-time-using-redisai-opencv-python-and-redis-plugins-for-grafana-1c23ef0a042c) on Volkov Labs blog.
+- `June 9, 2021` [Plugin showcase: Building a single pane of observability glass](https://grafana.com/go/grafanaconline/2021/plugins) at GrafanaCONline.
 
 ## Plugins for Grafana
 
