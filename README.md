@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 - `June 4, 2021` [Analyzing camera feed in real-time using RedisAI, OpenCV-Python, and Redis plugins for Grafana](https://volkovlabs.com/analyzing-camera-feed-in-real-time-using-redisai-opencv-python-and-redis-plugins-for-grafana-1c23ef0a042c) on Volkov Labs blog.
 - `June 9, 2021` [Plugin showcase: Building a single pane of observability glass](https://grafana.com/go/grafanaconline/2021/plugins) at GrafanaCONline.
 - `July 19, 2021` [Redis Monthly Live with Davies Liu and Mikhail Volkov](https://youtu.be/P7H1H-Zj5oU) at Redis Labs Monthly Meetup.
+- `July 28, 2021` [Plugins Connect Grafana to Redis in New Ways](https://volkovlabs.com/plugins-connect-grafana-to-redis-in-new-ways-531bb4367c6) on Volkov Labs blog.
  
 ## Plugins for Grafana
 
