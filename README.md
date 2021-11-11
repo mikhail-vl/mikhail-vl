@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - `June 27, 2019` [Redis Enterprise Extends Linear Scalability with 200M ops/sec @ <1ms latency on Only 40 AWS Instances](https://redislabs.com/blog/redis-enterprise-extends-linear-scalability-200m-ops-sec/) on Redis Labs blog.
 - `August 8, 2020` [How many times Redis Datasource for Grafana was downloaded?](https://www.linkedin.com/pulse/how-many-times-redis-datasource-grafana-downloaded-mikhail-volkov/) on LinkedIn.
 - `August 17, 2020` [Pop-up store demo using RedisTimeSeries, RedisGears and Redis Datasource for Grafana](https://www.linkedin.com/pulse/pop-up-store-demo-using-redistimeseries-redisgears-redis-volkov/) on LinkedIn.
-- `August 25, 2020` [Introducing the Redis Data Source Plug-in for Grafana](https://redislabs.com/blog/introducing-the-redis-data-source-plug-in-for-grafana/) on Redis Labs blog.
-- `September 2, 2020` [How to Use the New Redis Data Source for Grafana Plug-in](https://redislabs.com/blog/how-to-use-the-new-redis-data-source-for-grafana-plug-in/) on Redis Labs blog.
+- `August 25, 2020` [Introducing the Redis Data Source Plugin for Grafana](https://redislabs.com/blog/introducing-the-redis-data-source-plug-in-for-grafana/) on Redis Labs blog.
+- `September 2, 2020` [How to Use the New Redis Data Source for Grafana Plugin](https://redislabs.com/blog/how-to-use-the-new-redis-data-source-for-grafana-plug-in/) on Redis Labs blog.
 - `September 14, 2020` [How I tested the Redis cluster in Redis Data Source for Grafana](https://www.linkedin.com/pulse/how-i-tested-redis-cluster-data-source-grafana-mikhail-volkov/) on LinkedIn.
 - `September 28, 2020` [3 Real-Life Apps Built with Redis Data Source for Grafana](https://redislabs.com/blog/3-real-life-apps-built-with-redis-data-source-for-grafana/) on Redis Labs blog.
 - `October 15, 2020` [Grafana data streaming meets Redis](https://www.linkedin.com/pulse/grafana-data-streaming-meets-redis-mikhail-volkov/) on LinkedIn.
@@ -49,12 +49,12 @@ Here are some ideas to get you started:
 ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-datasource/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-datasource)
 
-- [Redis Application plug-in](https://github.com/RedisGrafana/grafana-redis-app) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-app.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fredis-app)](https://grafana.com/grafana/plugins/redis-app)
+- [Redis Application plugin](https://github.com/RedisGrafana/grafana-redis-app) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-app.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fredis-app)](https://grafana.com/grafana/plugins/redis-app)
 ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-app.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![Docker](https://github.com/RedisGrafana/grafana-redis-app/workflows/Docker/badge.svg)](https://github.com/orgs/RedisGrafana/packages/container/package/redis-app)
 [![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-app/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-app)
 
-- [Redis Explorer plug-in](https://github.com/RedisGrafana/grafana-redis-explorer) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-explorer.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fredis-explorer-app)](https://grafana.com/grafana/plugins/redis-explorer-app) ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-explorer.svg?style=social&amp;label=Star&amp;maxAge=3600)
+- [Redis Explorer plugin](https://github.com/RedisGrafana/grafana-redis-explorer) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-explorer.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fredis-explorer-app)](https://grafana.com/grafana/plugins/redis-explorer-app) ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-explorer.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![Docker](https://github.com/RedisGrafana/grafana-redis-explorer/workflows/Docker/badge.svg)](https://github.com/orgs/RedisGrafana/packages/container/package/redis-explorer)
 [![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-explorer/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-explorer)
 
