@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Building Real-time Observability and Management solutions at Volkov Labs.
+- 🔭 Building Custom plugins for Grafana at Volkov Labs.
 - 💬 Blogging on [Volkov Labs blog](https://volkovlabs.com/).
 - 😄 Leading [Redis plugins for Grafana](https://redisgrafana.github.io).
 - ⚡ My Excalidraw collection of [Redis and Grafana icons](https://github.com/volkovlabs/excalidraw-redis-grafana).
