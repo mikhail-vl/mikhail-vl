@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 [![Docker](https://github.com/RedisGrafana/grafana-redis-explorer/workflows/Docker/badge.svg)](https://github.com/orgs/RedisGrafana/packages/container/package/redis-explorer)
 [![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-explorer/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-explorer)
 
-- [Base64 Image Panel](https://github.com/volkovlabs/grafana-image-panel) ![Release](https://img.shields.io/github/v/release/volkovlabs/grafana-image-panel.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel)](https://grafana.com/grafana/plugins/volkovlabs-image-panel) ![Stars](https://img.shields.io/github/stars/volkovlabs/grafana-image-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
-[![codecov](https://codecov.io/gh/volkovlabs/grafana-image-panel/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/grafana-image-panel)
+- [Base64 Image Panel](https://github.com/volkovlabs/volkovlabs-image-panel) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel)](https://grafana.com/grafana/plugins/volkovlabs-image-panel) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
+[![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-image-panel/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-image-panel)
 
 ## Templates to create a new Grafana plugins
-- [Abc Panel](https://github.com/volkovlabs/grafana-abc-panel) ![Release](https://img.shields.io/github/v/release/volkovlabs/grafana-abc-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/grafana-abc-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
-[![codecov](https://codecov.io/gh/volkovlabs/grafana-abc-panel/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/grafana-abc-panel)
+- [Abc Panel](https://github.com/volkovlabs/volkovlabs-abc-panel) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
+[![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel)
