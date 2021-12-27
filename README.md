@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - `July 19, 2021` [Redis Monthly Live with Davies Liu and Mikhail Volkov](https://youtu.be/P7H1H-Zj5oU) at Redis Labs Monthly Meetup.
 - `July 28, 2021` [Plugins Connect Grafana to Redis in New Ways](https://volkovlabs.com/plugins-connect-grafana-to-redis-in-new-ways-531bb4367c6) on Volkov Labs blog.
  
-## Plugins for Grafana
+## Redis Plugins for Grafana
 
 - [Redis Data Source](https://github.com/RedisGrafana/grafana-redis-datasource) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-datasource.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fredis-datasource)](https://grafana.com/grafana/plugins/redis-datasource)
 ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 - [Redis Explorer plugin](https://github.com/RedisGrafana/grafana-redis-explorer) ![Release](https://img.shields.io/github/v/release/redisgrafana/grafana-redis-explorer.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fredis-explorer-app)](https://grafana.com/grafana/plugins/redis-explorer-app) ![Stars](https://img.shields.io/github/stars/RedisGrafana/grafana-redis-explorer.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![Docker](https://github.com/RedisGrafana/grafana-redis-explorer/workflows/Docker/badge.svg)](https://github.com/orgs/RedisGrafana/packages/container/package/redis-explorer)
 [![codecov](https://codecov.io/gh/RedisGrafana/grafana-redis-explorer/branch/master/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/RedisGrafana/grafana-redis-explorer)
+
+## Community Plugins for Grafana
 
 - [Base64 Image Panel](https://github.com/volkovlabs/volkovlabs-image-panel) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel)](https://grafana.com/grafana/plugins/volkovlabs-image-panel) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-image-panel/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-image-panel)
