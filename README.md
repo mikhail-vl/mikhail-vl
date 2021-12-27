@@ -1,6 +1,6 @@
 # Hi, I'm Mikhail 👋
 
-- 🔭 Building Custom plugins for Grafana at @VolkovLabs.
+- 🔭 Building Custom plugins for Grafana at Volkov Labs.
 - 💬 Blogging on [Volkov Labs blog](https://volkovlabs.com/), [Redis blog](https://redis.com/blog/author/mikhail/), [Grafana blog](https://grafana.com/author/mikhail_volkov/)
 - 😄 Leading [Redis plugins for Grafana](https://redisgrafana.github.io).
 - ⚡ My Excalidraw collection of [Redis and Grafana icons](https://github.com/volkovlabs/excalidraw-redis-grafana).
