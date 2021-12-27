@@ -11,9 +11,9 @@
 - `August 25, 2020` [Introducing the Redis Data Source Plugin for Grafana](https://redislabs.com/blog/introducing-the-redis-data-source-plug-in-for-grafana/) on Redis Labs blog.
 - `October 26, 2020` [Real-time observability with Redis and Grafana](https://grafana.com/go/observabilitycon/real-time-observability-with-redis-and-grafana/) at ObservabilityCON.
 - `April 20-21, 2021` [Elevate your Redis experience with Redis plugins for Grafana](https://www.youtube.com/watch?v=LquDQyEncLE) at RedisConf.
+- `May 24, 2021` [New plugins connect almost all of Redis for monitoring and visualization in Grafana](https://grafana.com/blog/2021/05/24/new-plugins-connect-almost-all-of-redis-for-monitoring-and-visualization-in-grafana/) on Grafana blog.
 - `June 9, 2021` [Plugin showcase: Building a single pane of observability glass](https://grafana.com/go/grafanaconline/2021/plugins) at GrafanaCONline.
 - `July 19, 2021` [Redis Monthly Live with Davies Liu and Mikhail Volkov](https://youtu.be/P7H1H-Zj5oU) at Redis Labs Monthly Meetup.
-- `July 28, 2021` [Plugins Connect Grafana to Redis in New Ways](https://volkovlabs.com/plugins-connect-grafana-to-redis-in-new-ways-531bb4367c6) on Volkov Labs blog.
  
 ## Redis Plugins for Grafana
 
