@@ -1,9 +1,6 @@
 # Hi, I'm Mikhail 👋
 
-- 🔭 Developing Custom plugins for Grafana at [Volkov Labs](https://github.com/volkovlabs).
-- 💬 Blogging on [Volkov Labs blog](https://volkovlabs.com/).
-- ⚡ My Excalidraw collection of [Redis and Grafana icons](https://github.com/volkovlabs/excalidraw-redis-grafana).
-- 📫 Reach me on [Twitter](https://twitter.com/mikhailvolkov) or [LinkedIn](https://www.linkedin.com/in/mikhailvolkov/).
+<p align="center"><a href="https://volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Web-blueviolet?style=for-the-badge&logo=webpack"></a> <a href="https://volkovlabs.com" target="_blank"><img src="https://img.shields.io/badge/-Blog-orange?style=for-the-badge&logo=medium"></a> <a href="https://www.youtube.com/channel/UCQadniwbukI6ZmTN2oTTb-g" target="_blank"><img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=youtube"></a> <a href="https://demo.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Demo%20Server-gray?style=for-the-badge&logo=codeforces"></a>  <a href="https://www.linkedin.com/in/mikhailvolkov/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://twitter.com/mikhailvolkov" target="_blank"><img src="https://img.shields.io/badge/-Twitter-9cf?style=for-the-badge&logo=twitter"></a></a></p>
 
 ## Favorite Events & Blogs
 - `June 27, 2019` [Redis Enterprise Extends Linear Scalability with 200M ops/sec @ <1ms latency on Only 40 AWS Instances](https://redislabs.com/blog/redis-enterprise-extends-linear-scalability-200m-ops-sec/) on Redis Labs blog.
